@@ -1,0 +1,36 @@
+# Global env variables
+FLASK_ENVIRONMENT = development
+
+# Node-related variables
+
+# Node 1
+NODE_1_FLASK_RUN_PORT = 8081
+NODE_2_FLASK_RUN_PORT = 8082
+NODE_3_FLASK_RUN_PORT = 8083
+NODE_4_FLASK_RUN_PORT = 8084
+NODE_5_FLASK_RUN_PORT = 8085
+
+node_1:
+	FLASK_ENV=$(FLASK_ENVIRONMENT) \
+	FLASK_RUN_PORT=$(NODE_1_FLASK_RUN_PORT) \
+	pipenv run flask run
+
+node_2:
+	FLASK_ENV=$(FLASK_ENVIRONMENT) \
+	FLASK_RUN_PORT=$(NODE_2_FLASK_RUN_PORT) \
+	pipenv run flask run
+
+node_3:
+	FLASK_ENV=$(FLASK_ENVIRONMENT) \
+	FLASK_RUN_PORT=$(NODE_3_FLASK_RUN_PORT) \
+	pipenv run flask run
+
+node_4:
+	FLASK_ENV=$(FLASK_ENVIRONMENT) \
+	FLASK_RUN_PORT=$(NODE_4_FLASK_RUN_PORT) \
+	pipenv run flask run
+
+node_5:
+	FLASK_ENV=$(FLASK_ENVIRONMENT) \
+	FLASK_RUN_PORT=$(NODE_5_FLASK_RUN_PORT) \
+	pipenv run flask run

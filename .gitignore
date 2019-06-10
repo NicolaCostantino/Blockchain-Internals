@@ -1,0 +1,21 @@
+## Python
+*.pyc
+__pycache__/
+
+## Testing
+# Tox
+.tox/
+# Coverage
+.coverage
+htmlcov/
+
+## Editors
+# Jupyter Notebook
+.ipynb_checkpoints
+# Visual Studio Code
+.vscode/
+
+## OS
+# Mac
+.DS_Store
+._*

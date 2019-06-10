@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+pylint = "*"
+freezegun = "*"
+pytest-cov = "*"
+autopep8 = "*"
+jsonschema = "*"
+
+[packages]
+jupyter = "*"
+flask = "*"
+jupyterlab = "*"
+matplotlib = "*"
+requests = "*"
+
+[requires]
+python_version = "3.7"
