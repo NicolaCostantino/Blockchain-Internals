@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.com/NicolaCostantino/Blockchain-Internals.svg?branch=master)](https://travis-ci.com/NicolaCostantino/Blockchain-Internals)
+[![codecov](https://codecov.io/gh/NicolaCostantino/Blockchain-Internals/branch/master/graph/badge.svg)](https://codecov.io/gh/NicolaCostantino/Blockchain-Internals)
+
+
 # Blockchain-Internals
 Proofs of Concept and sample implementations of a Blockchain in Python.
 
