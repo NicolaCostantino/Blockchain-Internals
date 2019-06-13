@@ -10,6 +10,7 @@ freezegun = "*"
 pytest-cov = "*"
 autopep8 = "*"
 jsonschema = "*"
+codecov = "*"
 
 [packages]
 jupyter = "*"
