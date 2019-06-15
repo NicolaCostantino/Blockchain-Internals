@@ -1,10 +1,15 @@
 dist: xenial
+
 language: python
+
 python:
   - "3.7"
+
 install:
   - make develop
+
 script:
   - make test_cov
+
 after_success:
   - make codecov
