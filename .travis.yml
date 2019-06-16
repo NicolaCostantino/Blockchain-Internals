@@ -6,7 +6,7 @@ python:
   - "3.7"
 
 install:
-  - make develop
+  - travis_retry make develop
 
 script:
   - make test_cov
