@@ -8,12 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0] - 2019-06-10
 ### Added
-- This CHANGELOG file to hopefully serve as an evolving example of a
-  standardized open source project CHANGELOG.
-- CNAME file to enable GitHub Pages custom domain
-- README now contains answers to common questions about CHANGELOGs
-- Good examples and basic guidelines, including proper date formatting.
-- Counter-examples: "What makes unicorns cry?"
+- Code shown in talk "Blockchain Internals"
 
 [Unreleased]: https://github.com/NicolaCostantino/Blockchain-Internals/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/NicolaCostantino/Blockchain-Internals/releases/tag/v1.0.0
