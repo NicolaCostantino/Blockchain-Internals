@@ -42,7 +42,6 @@
                 "sha256:26b54ddbbb9ee1d34d5d3668dd37d6cf74990ab23c828c2888dccdceee395594",
                 "sha256:fce7fc47dfc976152e82d53ff92fa0407700c21acd20886a13777a0d20e655dc"
             ],
-            "index": "pypi",
             "version": "==20.2.0"
         },
         "backcall": {
@@ -385,10 +384,10 @@
         },
         "notebook": {
             "hashes": [
-                "sha256:964cc40cff68e473f3778aef9266e867f7703cb4aebdfd250f334efe02f64c86",
-                "sha256:9990d51b9931a31e681635899aeb198b4c4b41586a9e87fbfaaed1a71d0a05b6"
+                "sha256:07b6e8b8a61aa2f780fe9a97430470485bc71262bc5cae8521f1441b910d2c88",
+                "sha256:687d01f963ea20360c0b904ee7a37c3d8cda553858c8d6e33fd0afd13e89de32"
             ],
-            "version": "==6.1.3"
+            "version": "==6.1.4"
         },
         "numpy": {
             "hashes": [
@@ -534,9 +533,10 @@
         },
         "pyrsistent": {
             "hashes": [
-                "sha256:28669905fe725965daa16184933676547c5bb40a5153055a8dee2a4bd7933ad3"
+                "sha256:8690178e75460d3afe32d6222feed1ca1fdd4ef7317f6d8b42147bcce5f9ee75"
             ],
-            "version": "==0.16.0"
+            "index": "pypi",
+            "version": "==0.17.0"
         },
         "python-dateutil": {
             "hashes": [
@@ -705,7 +705,6 @@
                 "sha256:26b54ddbbb9ee1d34d5d3668dd37d6cf74990ab23c828c2888dccdceee395594",
                 "sha256:fce7fc47dfc976152e82d53ff92fa0407700c21acd20886a13777a0d20e655dc"
             ],
-            "index": "pypi",
             "version": "==20.2.0"
         },
         "autopep8": {
@@ -905,9 +904,10 @@
         },
         "pyrsistent": {
             "hashes": [
-                "sha256:28669905fe725965daa16184933676547c5bb40a5153055a8dee2a4bd7933ad3"
+                "sha256:8690178e75460d3afe32d6222feed1ca1fdd4ef7317f6d8b42147bcce5f9ee75"
             ],
-            "version": "==0.16.0"
+            "index": "pypi",
+            "version": "==0.17.0"
         },
         "pytest": {
             "hashes": [
