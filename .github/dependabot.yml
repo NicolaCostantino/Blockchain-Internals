@@ -1,0 +1,105 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  allow:
+  - dependency-type: direct
+  - dependency-type: indirect
+  ignore:
+  - dependency-name: jupyterlab
+    versions:
+    - 3.0.12
+    - 3.0.13
+    - 3.0.8
+    - 3.0.9
+  - dependency-name: jupyter-server
+    versions:
+    - 1.4.0
+    - 1.4.1
+    - 1.5.1
+    - 1.6.0
+  - dependency-name: notebook
+    versions:
+    - 6.3.0
+  - dependency-name: prompt-toolkit
+    versions:
+    - 3.0.15
+    - 3.0.17
+    - 3.0.18
+  - dependency-name: terminado
+    versions:
+    - 0.9.3
+  - dependency-name: isort
+    versions:
+    - 5.8.0
+  - dependency-name: qtconsole
+    versions:
+    - 5.0.3
+  - dependency-name: jupyter-console
+    versions:
+    - 6.3.0
+    - 6.4.0
+  - dependency-name: importlib-metadata
+    versions:
+    - 3.6.0
+    - 3.7.0
+    - 3.7.2
+    - 3.7.3
+  - dependency-name: jupyter-client
+    versions:
+    - 6.1.12
+  - dependency-name: pygments
+    versions:
+    - 2.8.0
+    - 2.8.1
+  - dependency-name: nbclient
+    versions:
+    - 0.5.2
+  - dependency-name: jupyterlab-server
+    versions:
+    - 2.1.3
+    - 2.1.4
+    - 2.2.1
+    - 2.3.0
+  - dependency-name: bleach
+    versions:
+    - 3.2.3
+    - 3.3.0
+  - dependency-name: pyzmq
+    versions:
+    - 21.0.2
+    - 22.0.0
+    - 22.0.2
+    - 22.0.3
+  - dependency-name: nest-asyncio
+    versions:
+    - 1.5.1
+  - dependency-name: coverage
+    versions:
+    - "5.4"
+  - dependency-name: urllib3
+    versions:
+    - 1.26.3
+  - dependency-name: pytest
+    versions:
+    - 6.2.2
+  - dependency-name: pylint
+    versions:
+    - 2.6.2
+    - 2.7.0
+    - 2.7.1
+  - dependency-name: ipykernel
+    versions:
+    - 5.5.0
+  - dependency-name: lazy-object-proxy
+    versions:
+    - 1.5.2
+  - dependency-name: astroid
+    versions:
+    - "2.5"
+  - dependency-name: cffi
+    versions:
+    - 1.14.5
