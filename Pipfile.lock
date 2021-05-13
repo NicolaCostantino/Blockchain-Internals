@@ -302,7 +302,6 @@
                 "sha256:802a6969109d9a1163842d049a483e45cd2292f2b1fcbdbb48ea9655e7b5966d",
                 "sha256:8845f486dd48c1660cfad18e5091d1c03540eb2e9fbf3cecf21ecb22b69b8770"
             ],
-            "index": "pypi",
             "version": "==0.10.2"
         },
         "jupyter-server": {
@@ -907,11 +906,11 @@
         },
         "autopep8": {
             "hashes": [
-                "sha256:9e136c472c475f4ee4978b51a88a494bfcd4e3ed17950a44a988d9e434837bea",
-                "sha256:cae4bc0fb616408191af41d062d7ec7ef8679c7f27b068875ca3a9e2878d5443"
+                "sha256:276ced7e9e3cb22e5d7c14748384a5cf5d9002257c0ed50c0e075b68011bb6d0",
+                "sha256:aa213493c30dcdac99537249ee65b24af0b2c29f2e83cd8b3f68760441ed0db9"
             ],
             "index": "pypi",
-            "version": "==1.5.5"
+            "version": "==1.5.7"
         },
         "certifi": {
             "hashes": [
