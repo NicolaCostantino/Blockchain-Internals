@@ -182,11 +182,11 @@
         },
         "flask": {
             "hashes": [
-                "sha256:4efa1ae2d7c9865af48986de8aeb8504bf32c7f3d6fdc9353d34b21f4b127060",
-                "sha256:8a4fdd8936eba2512e9c85df320a37e694c93945b33ef33c89946a340a238557"
+                "sha256:168e8507792cb8a3aa06afbe5d4d431d3e07c6318bc3893ceecb81aff09f848d",
+                "sha256:1833a4b36ace08dfa1510d86f1bb6fc595d990ec1b838e03ac8dd80ac0705954"
             ],
             "index": "pypi",
-            "version": "==1.1.2"
+            "version": "==2.0.0"
         },
         "idna": {
             "hashes": [
@@ -205,10 +205,10 @@
         },
         "ipykernel": {
             "hashes": [
-                "sha256:1ce0e83672cc3bfdc1ffb5603e1d77ab125f24b41abc4612e22bfb3e994c0db2",
-                "sha256:f57739bf26d7396549562c0c888b96be896385ce099fb34ca89af359b7436b25"
+                "sha256:29eee66548ee7c2edb7941de60c0ccf0a7a8dd957341db0a49c5e8e6a0fcb712",
+                "sha256:e976751336b51082a89fc2099fb7f96ef20f535837c398df6eab1283c2070884"
             ],
-            "version": "==5.5.4"
+            "version": "==5.5.5"
         },
         "ipython": {
             "hashes": [
