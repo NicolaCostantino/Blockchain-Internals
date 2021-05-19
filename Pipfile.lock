@@ -18,11 +18,11 @@
     "default": {
         "anyio": {
             "hashes": [
-                "sha256:1ef7622396ab55829d4236a6f75e2199df6d26a4ba79bea0cb942a5fd2f79a23",
-                "sha256:ed71f7542ef39875b65def219794d9dcb0a48c571317b13612c12b1f292701b5"
+                "sha256:43e20711a9d003d858d694c12356dc44ab82c03ccc5290313c3392fa349dad0e",
+                "sha256:5e335cef65fbd1a422bbfbb4722e8e9a9fadbd8c06d5afe9cd614d12023f6e5a"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==3.0.1"
+            "index": "pypi",
+            "version": "==3.1.0"
         },
         "argon2-cffi": {
             "hashes": [
