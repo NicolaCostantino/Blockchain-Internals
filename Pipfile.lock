@@ -237,11 +237,11 @@
         },
         "fonttools": {
             "hashes": [
-                "sha256:1933415e0fbdf068815cb1baaa1f159e17830215f7e8624e5731122761627557",
-                "sha256:2b18a172120e32128a80efee04cff487d5d140fe7d817deb648b2eee023a40e4"
+                "sha256:084dd1762f083a1bf49e41da1bfeafb475c9dce46265690a6bdd33290b9a63f4",
+                "sha256:6985cc5380c06db07fdc73ade15e6adbd4ce6ff850d7561ca00f97090b4b263d"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==4.29.1"
+            "version": "==4.30.0"
         },
         "idna": {
             "hashes": [
@@ -299,11 +299,11 @@
         },
         "itsdangerous": {
             "hashes": [
-                "sha256:29285842166554469a56d427addc0843914172343784cb909695fdbe90a3e129",
-                "sha256:d848fcb8bc7d507c4546b448574e8a44fc4ea2ba84ebf8d783290d53e81992f5"
+                "sha256:7b7d3023cd35d9cb0c1fd91392f8c95c6fa02c59bf8ad64b8849be3401b95afb",
+                "sha256:935642cd4b987cdbee7210080004033af76306757ff8b4c0a506a4b6e06f02cf"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==2.1.0"
+            "version": "==2.1.1"
         },
         "jedi": {
             "hashes": [
@@ -358,7 +358,7 @@
                 "sha256:55f32626b0be647a85e3217ddcdb22db69efc79e8b403b9771eb9ecc696019b5",
                 "sha256:e630bcb682c0088dda45688ad7c2424d4a825c8acf494cb036ced03ed0424841"
             ],
-            "index": "pypi",
+            "markers": "python_version >= '3.6'",
             "version": "==6.4.3"
         },
         "jupyter-core": {
@@ -379,11 +379,11 @@
         },
         "jupyterlab": {
             "hashes": [
-                "sha256:c7a1997bebf5487f8c17587f519039125014d122cdd5d60beffad4b266da330f",
-                "sha256:e0b85a9f8087e9d938fec5ceb6beb87cca038455404c48a503c633d9774c480b"
+                "sha256:ce482799379c70aa87e63b59e2c5379779ce18658b92460cd20bb44154865973",
+                "sha256:e60bf834fed95a946c95eebf26ac888b70b61145822d2bd866714fe640ee6e13"
             ],
             "index": "pypi",
-            "version": "==3.3.0"
+            "version": "==3.3.1"
         },
         "jupyterlab-pygments": {
             "hashes": [
@@ -1114,7 +1114,7 @@
         },
         "coverage": {
             "extras": [
-                "toml"
+
             ],
             "hashes": [
                 "sha256:03e2a7826086b91ef345ff18742ee9fc47a6839ccd517061ef8fa1976e652ce9",
@@ -1206,7 +1206,7 @@
                 "sha256:6f62d78e2f89b4500b080fe3a81690850cd254227f27f75c3a0c491a1f351ba7",
                 "sha256:e8443a5e7a020e9d7f97f1d7d9cd17c88bcb3bc7e218bf9cf5095fe550be2951"
             ],
-            "markers": "python_version < '4' and python_full_version >= '3.6.1'",
+            "markers": "python_version < '4.0' and python_full_version >= '3.6.1'",
             "version": "==5.10.1"
         },
         "jsonschema": {
