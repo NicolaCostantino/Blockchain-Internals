@@ -379,11 +379,11 @@
         },
         "jupyter-server": {
             "hashes": [
-                "sha256:1983a2a71d8709a77da6804ece67ded776c201ba11126de7002d088fb3418c85",
-                "sha256:94a136b6ed4826ac6a1fab3bfeff8a698a7833578548f78f302ed1ba90b1e534"
+                "sha256:01b3f05cda404612e7366f491cfed39b49bdbf07e16d9d073f404c60dd0d199d",
+                "sha256:939bb7ec3a75b6e5d6ee2d9989307367e3535cd89ea565e8bc435052790dd61a"
             ],
-            "markers": "python_version >= '3.7'",
-            "version": "==1.15.4"
+            "index": "pypi",
+            "version": "==1.15.5"
         },
         "jupyterlab": {
             "hashes": [
@@ -402,11 +402,11 @@
         },
         "jupyterlab-server": {
             "hashes": [
-                "sha256:3fb84a5813d6d836ceda773fb2d4e9ef3c7944dbc1b45a8d59d98641a80de80a",
-                "sha256:62f3c598f1d48dfb9b27729ed17772e38115cbe61e7d60fe68a853791bdf1038"
+                "sha256:54497452a1cee6fdcc5e309c34e7bebf99f6ee495b825373ed8d4750baf90b0a",
+                "sha256:865e0b1fddefb173b1877dfe0ae115e1df94d9b4ca745d53e57f7b4e4f882396"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2.10.3"
+            "markers": "python_version >= '3.7'",
+            "version": "==2.11.0"
         },
         "jupyterlab-widgets": {
             "hashes": [
@@ -569,11 +569,11 @@
         },
         "nbclassic": {
             "hashes": [
-                "sha256:7dbac0a6cb71bbe3afa1fe89369e6e3174d89f42aa08216a327046de45aa9a4f",
-                "sha256:fd150c1aafb626a395fd5a9ce5ae0e82c4db91ae38bc3d4cb0bdc66c367ede1d"
+                "sha256:36dbaa88ffaf5dc05d149deb97504b86ba648f4a80a60b8a58ac94acab2daeb5",
+                "sha256:89184baa2d66b8ac3c8d3df57cbcf16f34148954d410a2fb3e897d7c18f2479d"
             ],
             "markers": "python_version >= '3.7'",
-            "version": "==0.3.6"
+            "version": "==0.3.7"
         },
         "nbclient": {
             "hashes": [
@@ -1167,7 +1167,7 @@
         },
         "coverage": {
             "extras": [
-                "toml"
+
             ],
             "hashes": [
                 "sha256:03e2a7826086b91ef345ff18742ee9fc47a6839ccd517061ef8fa1976e652ce9",
@@ -1259,7 +1259,7 @@
                 "sha256:6f62d78e2f89b4500b080fe3a81690850cd254227f27f75c3a0c491a1f351ba7",
                 "sha256:e8443a5e7a020e9d7f97f1d7d9cd17c88bcb3bc7e218bf9cf5095fe550be2951"
             ],
-            "markers": "python_version < '4.0' and python_full_version >= '3.6.1'",
+            "markers": "python_version < '4' and python_full_version >= '3.6.1'",
             "version": "==5.10.1"
         },
         "jsonschema": {
